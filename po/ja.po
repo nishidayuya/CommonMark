@@ -78,6 +78,11 @@ msgid ""
 "comment by John "
 "Gruber](http://article.gmane.org/gmane.text.markdown.general/1997).)"
 msgstr ""
+"いくつのインデントがサブリストに必要ですか?"
+"その仕様は連続する段落は4つのスペースでインデントされている必要があると言っていますがサブリストについては十分明示していません．"
+"自然に考えればそれらは同じで4つのスペースでインデントされるべきと思いますが，`Markdown.pl`はそれを要求しません．"
+"これはひどい\"コーナーケース\"でこの問題における実装間の違いはしばしば実際の文書でユーザを驚かせます．"
+"（[John Gruberによるこのコメント](http://article.gmane.org/gmane.text.markdown.general/1997)を見てください）"
 
 #. type: Bullet: '2.  '
 #: spec.md:46
