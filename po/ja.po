@@ -31,7 +31,7 @@ msgstr "はじめに"
 #: spec.md:11
 #, no-wrap
 msgid "What is Markdown?"
-msgstr ""
+msgstr "Markdownとは?"
 
 #. type: Plain text
 #: spec.md:22
