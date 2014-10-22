@@ -19,7 +19,7 @@ msgstr ""
 msgid ""
 "title: CommonMark Spec author: - John MacFarlane version: 2 date: 2014-09-19 "
 "..."
-msgstr ""
+msgstr "title: CommonMark 仕様\nauthor:\n- John MacFarlane\nversion: 2\ndate: 2014-09-19\n..."
 
 #. type: Title #
 #: spec.md:9
