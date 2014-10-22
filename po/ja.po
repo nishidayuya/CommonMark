@@ -25,7 +25,7 @@ msgstr "title: CommonMark 仕様\nauthor:\n- John MacFarlane\nversion: 2\ndate: 
 #: spec.md:9
 #, no-wrap
 msgid "Introduction"
-msgstr ""
+msgstr "はじめに"
 
 #. type: Title ##
 #: spec.md:11
