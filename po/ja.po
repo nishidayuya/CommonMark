@@ -63,6 +63,8 @@ msgid ""
 "specify the syntax unambiguously.  Here are some examples of questions it "
 "does not answer:"
 msgstr ""
+"John Gruberの[Markdownシンタックスの標準的な記述](http://daringfireball.net/projects/markdown/syntax)は明確にシンタックスを記述していません．"
+"ここではそれが対応しないいくつかの例を示します:"
 
 #. type: Bullet: '1.  '
 #: spec.md:38
