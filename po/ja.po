@@ -44,7 +44,10 @@ msgid ""
 "extended basic Markdown syntax with conventions for footnotes, definition "
 "lists, tables, and other constructs, and some allowed output not just in "
 "HTML but in LaTeX and many other formats."
-msgstr ""
+msgstr "Markdownは構造化された文書を書くための普通のテキストフォーマットで，電子メールやUSENETの投稿で書式を示すために使われた規則を元にしています．"
+"Perlで最初のMarkdownからHTMLへのコンバータを書いたJohn Gruberによって2004年に開発され，すぐに様々なウェブサイトで使われるようになりました．"
+"2014年には多くの言語でたくさんの実装ができました．"
+"それらの内いくつかは脚注や定義リスト，表，その他の構成物のための規則のためにMarkdownの文法を拡張し，いくつかはHTMLではなくLaTeXやその他の多くのフォーマットの出力を可能にしました．"
 
 #. type: Title ##
 #: spec.md:23
