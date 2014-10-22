@@ -53,7 +53,7 @@ msgstr "Markdownは構造化された文書を書くための普通のテキス�
 #: spec.md:23
 #, no-wrap
 msgid "Why is a spec needed?"
-msgstr ""
+msgstr "なぜ仕様が必要とされているのか?"
 
 #. type: Plain text
 #: spec.md:29
