@@ -17,7 +17,13 @@ spec: test spec.html
 spec.md: spec.txt
 	perl spec2md.pl < $< > $@
 
+spec.md.ja: spec.md po/ja.po
+	po4a-translate --format text --option markdown --master $< --master-charset UTF-8 --po po/ja.po --localized $@ --keep 0
+
 spec.html: spec.md template.html
+	pandoc --no-highlight --number-sections --template template.html -s --toc -S $< > $@ # | perl -pe 's/␣/<span class="space"> <\/span>/g' > $@
+
+spec.html.ja: spec.md.ja template.html
 	pandoc --no-highlight --number-sections --template template.html -s --toc -S $< > $@ # | perl -pe 's/␣/<span class="space"> <\/span>/g' > $@
 
 narrative.html: narrative.md template.html
@@ -85,3 +91,4 @@ clean:
 	-rm -rf *.dSYM
 	-rm -f README.html
 	-rm -f spec.md fuzz.txt spec.html
+	-rm -f spec.md.ja spec.html.ja
