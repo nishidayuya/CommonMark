@@ -186,6 +186,8 @@ msgid ""
 "    (There are some relevant comments by John Gruber\n"
 "    [here](http://article.gmane.org/gmane.text.markdown.general/2554).)\n"
 msgstr ""
+"    （[ここ](http://article.gmane.org/gmane.text.markdown.general/2554)にJohn Gruberによるいくつかの関連する説明があります．）\n"
+"    \n"
 
 #. type: Bullet: '5.  '
 #: spec.md:81
