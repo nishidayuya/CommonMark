@@ -109,6 +109,8 @@ msgid ""
 "requires it, but this is not mentioned in the documentation, and some "
 "implementations do not require it.)"
 msgstr ""
+"空行はインデントされたコードブロックの前に必要ですか?"
+" （`Markdown.pl`は要求しますが，これは文書で言及されていませんし，いくつかの実装は要求しません．）"
 
 #. type: Plain text
 #: spec.md:55
