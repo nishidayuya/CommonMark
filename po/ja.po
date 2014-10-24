@@ -129,6 +129,10 @@ msgid ""
 "tags? Can a list be partially \"loose\" and partially \"tight\"? What should "
 "we do with a list like this?"
 msgstr ""
+"リストアイテムを`<p>`タグで包むときの正確なルールはなんですか?"
+"リストは部分的に\"緩く\"，部分的に\"きっちりと\"できますか?"
+"我々はこのようなリストについてどうするべきですか?"
+# TODO: looseとtightは片仮名がよかっただろうか
 
 #. type: Plain text
 #: spec.md:62
