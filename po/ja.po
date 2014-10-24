@@ -159,7 +159,7 @@ msgstr ""
 #: spec.md:68
 #, no-wrap
 msgid "    Or this?\n"
-msgstr ""
+msgstr "    あるいはこれは?\n"
 
 #. type: Plain text
 #: spec.md:72
