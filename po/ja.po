@@ -94,6 +94,13 @@ msgid ""
 "(John Gruber has also spoken [in favor of requiring the blank "
 "lines](http://article.gmane.org/gmane.text.markdown.general/2146).)"
 msgstr ""
+"空行がブロック引用やヘッダの前に必要ですか?"
+"多くの実装では空行を要求しません．"
+"しかしながら，これは折り返しテキストで予期しない結果や解析の曖昧さを招きます"
+"（いくつかの実装は他の処理を行わない間、ブロック引用の内側にヘッダを入れることに注意）．"
+"（John Gruberもまた[空行を要求することに賛成](http://article.gmane.org/gmane.text.markdown.general/2146)と話しています．"
+# TODO: hard-wrapped textの訳
+# TODO: while others do notがなにを差しているか
 
 #. type: Bullet: '3.  '
 #: spec.md:50
