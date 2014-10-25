@@ -235,6 +235,8 @@ msgid ""
 "one? (The Markdown syntax description suggests two, but the perl scripts and "
 "many other implementations produce one.)"
 msgstr ""
+"リストマーカーを数値から黒丸に変えたとき，我々は2つのリストを持ちますか?あるいは1つですか?"
+"（Markdownシンタックスの記述は2つを提案していますが，そのPerlスクリプトと多くの他の実装は1つ生成します．）"
 
 #. type: Plain text
 #: spec.md:107
