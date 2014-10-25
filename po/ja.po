@@ -275,6 +275,8 @@ msgid ""
 "What are the precedence rules for markers of emphasis and strong emphasis? "
 "For example, how should the following be parsed?"
 msgstr ""
+"強調やより強い強調のマーカーのための規則はなにが優先されますか?"
+"例えば，以下はどのように解析されるべきですか?"
 
 #. type: Plain text
 #: spec.md:122
