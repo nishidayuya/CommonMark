@@ -213,6 +213,9 @@ msgid ""
 "Is this one list with a horizontal rule in its second item, or two lists "
 "separated by a horizontal rule?"
 msgstr ""
+"これは2つ目の項目で水平規則をもった1つのリストですか?"
+"あるいは水平規則によって分割された2つのリストですか?"
+# TODO: horizontal ruleの訳 自然な日本語じゃない
 
 #. type: Plain text
 #: spec.md:96
