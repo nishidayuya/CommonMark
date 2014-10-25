@@ -257,7 +257,7 @@ msgid ""
 "example, is the following a valid link, or does the code span take "
 "precedence ?"
 msgstr ""
-"なにがインライン構造のマーカーのために優先されますか?"
+"インライン構造のマーカーのための規則はなにが優先されますか?"
 "例えば，以下は有効なリンクですか?またはコード要素が優先されますか?"
 
 #. type: Plain text
