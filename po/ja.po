@@ -193,6 +193,8 @@ msgstr ""
 #: spec.md:81
 msgid "Can list markers be indented? Can ordered list markers be right-aligned?"
 msgstr ""
+"リストマーカーはインデントできますか?"
+"番号付きリストマーカーは右寄せできますか?"
 
 #. type: Plain text
 #: spec.md:87
