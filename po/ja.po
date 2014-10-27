@@ -327,7 +327,7 @@ msgstr ""
 #. type: Bullet: '12. '
 #: spec.md:139
 msgid "Can link references be defined inside block quotes or list items?"
-msgstr ""
+msgstr "リンク参照はブロック引用やリストアイテムの内側で定義できますか?"
 
 #. type: Plain text
 #: spec.md:145
