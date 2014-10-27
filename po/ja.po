@@ -404,6 +404,10 @@ msgid ""
 "intended to double as conformance tests.  An accompanying script "
 "`runtests.pl` can be used to run the tests against any Markdown program:"
 msgstr ""
+"この文書は明白なMarkdownシンタックスを決めることを試みます．"
+"それはMarkdownとHTMLが並んでいる多くのサンプルを含みます．"
+"これらは規格適合性試験を兼ねるようにする予定です．"
+"同梱したスクリプトの`runtests.pl`はMarkdownプログラムに対してテストを実行するために使えます．"
 
 #. type: Plain text
 #: spec.md:177
