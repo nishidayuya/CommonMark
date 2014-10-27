@@ -394,7 +394,7 @@ msgstr ""
 #: spec.md:168
 #, no-wrap
 msgid "About this document"
-msgstr ""
+msgstr "この文書について"
 
 #. type: Plain text
 #: spec.md:175
