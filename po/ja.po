@@ -312,6 +312,8 @@ msgid ""
 "Can list items include headers? (`Markdown.pl` does not allow this, but "
 "headers can occur in blockquotes.)"
 msgstr ""
+"リストアイテムはヘッダを含められますか?"
+"（`Markdown.pl`はこれを許していませんが，ヘッダはブロック引用内で出現できます）"
 
 #. type: Plain text
 #: spec.md:137
