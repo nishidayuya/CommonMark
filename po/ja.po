@@ -293,6 +293,8 @@ msgid ""
 "What are the precedence rules between block-level and inline-level "
 "structure? For example, how should the following be parsed?"
 msgstr ""
+"ブロックレベルとインラインレベル構造の優先規則はなんですか?"
+"例えば，以下はどのように解析されるべきですか?"
 
 #. type: Plain text
 #: spec.md:130
