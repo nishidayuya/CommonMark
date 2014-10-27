@@ -346,6 +346,7 @@ msgid ""
 "If there are multiple definitions for the same reference, which takes "
 "precedence?"
 msgstr ""
+"同じ参照に対して複数の定義があったとき，どちらを優先しますか?"
 
 #. type: Plain text
 #: spec.md:152
