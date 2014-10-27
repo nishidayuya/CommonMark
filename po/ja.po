@@ -386,6 +386,9 @@ msgid ""
 "matters worse, because nothing in Markdown counts as a \"syntax error,\" the "
 "divergence often isn't discovered right away."
 msgstr ""
+"明白な仕様がありませんから，各実装はかなり分岐しています．"
+"結果として，ユーザはしばしばあるシステム（例えばGitHub Wiki）のある方法でレンダリングした文書が別なシステム（例えばPandocを使ったDocBookへの変換）では異なるレンダリングになることを見つけて驚かされます．"
+"さらに悪いことには，Markdownでは\"シンタックスエラー\"としてカウントしないためにその分岐はたいていすぐに発見されません．"
 
 #. type: Title ##
 #: spec.md:168
