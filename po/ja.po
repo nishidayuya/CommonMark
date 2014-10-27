@@ -373,6 +373,8 @@ msgid ""
 "manifestly bad results in many cases, so it was not a satisfactory "
 "replacement for a spec."
 msgstr ""
+"仕様不在の間，初期の実装者たちはこれらの曖昧さを解決するために`Markdown.pl`を調べました．"
+"しかし，`Markdown.pl`はかなりバギーで，多くのケースで明らかに悪い結果をもたらしました．そのため，満足のいくような仕様の代わりとはなりませんでした．"
 
 #. type: Plain text
 #: spec.md:167
